@@ -1,7 +1,8 @@
 # hello-world
-first one
 
-modified on new branch readme-edit
+first repository
+
+Readme file modified on a new branch called readme-edit
 
 that's it folks
 
